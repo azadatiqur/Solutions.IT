@@ -1,3 +1,4 @@
+/*first-section*/
 .first-section{
     background: #1F2937;
     padding: 10px 200px
@@ -56,6 +57,10 @@ nav{
     height: 400px;
     width: 600px;
 }
+
+
+
+/* second-section */
 .second-section{
     display: flex;
     flex-direction: column;
@@ -87,4 +92,30 @@ nav{
     font-weight: 200;
     color: rgb(27, 25, 25);
     text-align: center;
+}
+
+
+
+/* third-section */
+.third-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #E5E7EB;
+    padding: 100px;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    text-align: center;
+}
+.quote-by{
+    padding-left: 800px;
+}
+.quote-by p{
+    font-weight: bold;
+    font-size: 24px;
 }
