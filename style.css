@@ -56,3 +56,35 @@ nav{
     height: 400px;
     width: 600px;
 }
+.second-section{
+    display: flex;
+    flex-direction: column;
+}
+.executive-text{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+    margin: 36px;
+}
+.info-of-the-executives{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.executive-image img{
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    border: 3px solid rgb(65, 65, 231);
+}
+.executive-image p{
+    font-size: 15px;
+    font-weight: 200;
+    color: rgb(27, 25, 25);
+    text-align: center;
+}
