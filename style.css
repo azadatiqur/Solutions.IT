@@ -1,7 +1,10 @@
+body{
+    margin: 0;
+}
 /*first-section*/
 .first-section{
     background: #1F2937;
-    padding: 10px 200px
+    padding: 10px 200px;
 }
 .header{
     display: flex;
@@ -124,7 +127,7 @@ nav{
 
 /* fourth-section */
 .fourth-section{
-    padding: 60px 150px;
+    padding: 60px 200px;
 }
 .blue-box{
     background: rgb(9, 131, 172);
@@ -152,4 +155,16 @@ nav{
     padding: 10px 40px;
     border: white solid 2px;
     border-radius: 10px;
+}
+
+
+
+/* fifth-section */
+.fifth-section{
+    background: #1F2937;
+    padding: 20px;
+    text-align: center;
+}
+.footer{
+    color:white;
 }
