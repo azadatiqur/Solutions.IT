@@ -119,3 +119,37 @@ nav{
     font-weight: bold;
     font-size: 24px;
 }
+
+
+
+/* fourth-section */
+.fourth-section{
+    padding: 60px 150px;
+}
+.blue-box{
+    background: rgb(9, 131, 172);
+    padding: 30px 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.action-text .solution-text{
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.action-text .sign-up-text{
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.fourth-section-sign-up{
+    background: #3882f6;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    padding: 10px 40px;
+    border: white solid 2px;
+    border-radius: 10px;
+}
